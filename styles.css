@@ -1,0 +1,11 @@
+* {
+    color:gold;
+    /*margin-top: 20px;*/
+    /*padding-left: 5px;*/
+    border-color: red;
+    background-color: rgb(255, 94, 0);
+}
+
+.background-container {
+    background-image: url('2-is-space-silent.jpg'); /* Adjust the path accordingly 
+}
